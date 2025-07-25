@@ -18,8 +18,6 @@
   </a>
 </div>
 
-<p align="center">A modern and responsive admin dashboard built with Bootstrap 5, featuring an intuitive interface for managing administrative tasks efficiently.</p>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
