@@ -18,10 +18,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square" alt="Version">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
-</div>
 
 ## Overview
 This admin dashboard provides a comprehensive interface for managing various administrative tasks. It features a responsive design that works seamlessly across desktop and mobile devices.
