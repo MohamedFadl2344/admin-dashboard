@@ -1,7 +1,6 @@
 # Modern Admin Dashboard
 
-<div align="center">
-  <h3>Built With</h3>
+<div align="left">
   <a href="https://getbootstrap.com">
     <img src="https://img.shields.io/badge/Bootstrap-5.x-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
